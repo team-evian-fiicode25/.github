@@ -1,6 +1,8 @@
-# Fiicode 25
+# RideMe
 
-This project represents our entry for [Fiicode](https://fiicode.asii.ro/en/web-and-mobile-development)'s 25th edition programming contest.
+![logo](https://raw.githubusercontent.com/team-evian-fiicode25/.github/refs/heads/main/logo.png)
+
+This project represents our entry for [Fiicode](https://fiicode.asii.ro/en/web-and-mobile-development)'s 2025 edition programming contest.
 
 ## Repository Index
 |                | Description                                                   | Repo                                                           |
