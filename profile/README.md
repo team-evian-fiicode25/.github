@@ -3,6 +3,7 @@
 ![logo](https://raw.githubusercontent.com/team-evian-fiicode25/.github/refs/heads/main/logo.png)
 
 This project represents our entry for [Fiicode](https://fiicode.asii.ro/en/web-and-mobile-development)'s 2025 edition programming contest.
+Presentation video: https://www.capcut.com/s/CY-s1gjuzSFa8Jgj/
 
 ## Repository Index
 |                | Description                                                     | Repo                                                           |
