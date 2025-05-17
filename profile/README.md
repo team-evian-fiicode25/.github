@@ -14,6 +14,7 @@ This project represents our entry for [Fiicode](https://fiicode.asii.ro/en/web-a
 | Business Logic | Here are the main services used by both the apps                | [link](https://github.com/Team-Evian-Fiicode25/business-logic) |
 | Authentication | This service provides authorization for the APIs of both apps   | [link](https://github.com/Team-Evian-Fiicode25/authentication) |
 | Messaging      | This service will handle all sms/email requirements for our app | [link](https://github.com/Team-Evian-Fiicode25/messaging)      |
+| Assistant      | This service handles our virtual assistant queries              | [link](https://github.com/Team-Evian-Fiicode25/assistant)      |
 
 ## Architectural diagram
 ![diagram](https://team-evian-fiicode25.github.io/.github/architecture-diagram.svg)
